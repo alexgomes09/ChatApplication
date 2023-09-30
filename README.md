@@ -2,6 +2,8 @@
 
 A chat application using RoomDB, demonstrating the MVVM Clean architecture pattern.
 
+-
+
 <hr>
 
 <span>
@@ -15,5 +17,5 @@ A chat application using RoomDB, demonstrating the MVVM Clean architecture patte
 ### Known Issue
 - Project gradle sometime goes out of sync due to kapt annotation bug. Please sync the project when following error is thrown.
 
-<code>Each bind variable in the query must have a matching method parameter. Cannot find method parameters for :chatItemId. - com.example.data.dao.ChatDao.getAllChatByChatItemId(long)
+<code>Each bind variable in the query must have a matching method parameter. Cannot find method parameters for :chatItemId
 </code>
