@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_item_mute_unmute"
+        android:visible="false"
+        android:icon="@drawable/ic_mute"
+        android:title="@string/mute"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_item_delete"
+        android:visible="false"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+
+
+</menu>

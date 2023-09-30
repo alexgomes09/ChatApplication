@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="lbl_chat_list">Chat List</string>
+    <string name="lbl_create_new_chat">Create New Chat</string>
+    <string name="create_your_first_chat_now">Create your first chat now</string>
+    <string name="create_new_chat">Create new chat</string>
+    <string name="enter_chat_name">Enter chat name…</string>
+    <string name="create_chat">Create Chat</string>
+    <string name="message_deleted">Message deleted</string>
+    <string name="mute">Mute</string>
+    <string name="delete">Delete</string>
+</resources>
