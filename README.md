@@ -1,4 +1,4 @@
-## Chat Application, MVVM, Hilt
+## Chat Application - Room DB, MVVM, Hilt
 
 A chat application using RoomDB, demonstrating the MVVM Clean architecture pattern.
 
