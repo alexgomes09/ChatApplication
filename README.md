@@ -4,8 +4,6 @@ A chat application using RoomDB, demonstrating the MVVM Clean architecture patte
 
 <hr>
 
-[<img src="https://i.ibb.co/vZg7qtC/Screenshot-2023-09-30-at-4-31-34-PM.png" width="20%">](https://github.com/alexgomes09/ChatApplication/raw/main/assets/recording.mp4)
-
 <span>
 <img src="https://github.com/alexgomes09/ChatApplication/blob/main/assets/new_chat.png" width="300">
 <img src="https://raw.githubusercontent.com/alexgomes09/ChatApplication/main/assets/chat_list.png" width="300">
